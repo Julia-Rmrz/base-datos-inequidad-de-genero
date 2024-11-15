@@ -4,7 +4,7 @@ Estamos tomando en cuenta el año 2022 de todas las datas utilizadas para realiz
 
 | Variable                                                        | Abreviación | Tipo de variable           | Descripción                                                                                 |
 |-----------------------------------------------------------------|-------------|-----------------------------|---------------------------------------------------------------------------------------------|
-| Países de Europa                                                | PAISES      | Texto                       | Lista de todos los países europeos incluidos en el análisis.                               |
+| Países de Europa y Medio Oriente                                | PAISES      | Texto                       | Lista de todos los países europeos incluidos en el análisis.                               |
 | Índice de Inequidad de Género                                  | IING        | Cuantitativa continua       | Variable dependiente, es la medida de desigualdad de género, donde 0 indica menos inequidad y 100 más inequidad.      |
 | Población Mujeres (% del total)                                 | PM          | Cuantitativa discreta       | Variable de control, es el porcentaje de mujeres en relación con la población total del país.                         |
 | Población Total                                                 | PT          | Cuantitativa discreta       | Total de la población de cada país.                                                        |
